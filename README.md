@@ -38,7 +38,9 @@ alert(x);
 |   3  | purple| because|
 
 There are times when i need my text to be **BOLD**
+
 other times it should be *italicized*
+
 ~~Sometimes i mess up and have to cross it out~~
 
 -----------------------------------------------------
