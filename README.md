@@ -11,3 +11,11 @@ var x = "here is some javascript code";
 alert(x);
 ```
 >This is a block quote :)
+
+#### This is a bulleted list of colors
+
+* red
+* blue
+* green
+* orange
+* yellow
