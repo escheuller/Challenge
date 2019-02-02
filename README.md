@@ -19,3 +19,11 @@ alert(x);
 * green
 * orange
 * yellow
+
+#### Here is a list of my favorite colors
+
+1. brown
+2. black
+3. purple
+4. gray
+5. indigo
