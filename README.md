@@ -27,3 +27,12 @@ alert(x);
 3. purple
 4. gray
 5. indigo
+
+
+#### Here is a table
+
+| Rank | Color | Reason |
+|------|-------|--------|
+|   1  |  brown| my skin|
+|   2  |  black|its neat|
+|   3  | purple| because|
